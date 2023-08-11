@@ -10,3 +10,12 @@
     color: darkolivegreen
 }
 
+.table{
+    border-color: grey;
+    border-radius: 10px;
+}
+
+.tableline{
+    color: white;
+    background-color: black;
+}
